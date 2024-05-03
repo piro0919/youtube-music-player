@@ -1,0 +1,90 @@
+html {
+  @media (width < 740px) {
+    font-size: 56.25%;
+  }
+  @media (740px <= width) {
+    font-size: 62.5%;
+  }
+}
+
+body {
+  color: #fff;
+  font-family: arial, sans-serif;
+  overflow: hidden;
+}
+
+body::before {
+  background-image: url("/background.webp");
+  background-position: center;
+  background-size: cover;
+  content: "";
+  inset: 0;
+  position: fixed;
+}
+
+* {
+  outline: none;
+}
+
+a {
+  color: inherit;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+button {
+  color: inherit;
+}
+
+canvas,
+img,
+picture,
+svg,
+video {
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-style: italic;
+  height: auto;
+  max-width: 100%;
+  pointer-events: none;
+  shape-margin: 1rem;
+  vertical-align: middle;
+}
+
+input,
+textarea {
+  min-width: 0;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+.react-tabs {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  height: 100%;
+}
+
+.react-tabs__tab-list {
+  border-bottom: 0;
+  display: flex;
+  gap: 12px;
+  padding: 0 12px;
+}
+
+.react-tabs__tab {
+  border-radius: 8px;
+  font-size: 1.4rem;
+  padding-bottom: 4px;
+  padding-top: 4px;
+}
+
+.react-tabs__tab:not(.react-tabs__tab--selected) {
+  background: #272727;
+}
+
+.react-tabs__tab--selected::after {
+  display: none;
+}

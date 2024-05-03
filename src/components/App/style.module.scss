@@ -1,0 +1,111 @@
+.wrapper {
+  display: grid;
+  height: 100dvh;
+  position: relative;
+  transition: 250ms;
+  width: 100dvw;
+  @media (width < 980px) {
+    grid-template-rows: 60px 1fr 60px;
+  }
+  @media (980px <= width) {
+    grid-template-rows: 60px 1fr 0;
+  }
+}
+
+.header {
+  align-items: center;
+  display: flex;
+  padding: 0 12px;
+}
+
+.main {
+  position: relative;
+}
+
+.playerBlock {
+  bottom: 0;
+  height: 180px;
+  position: absolute;
+  transition: 250ms;
+  width: 100%;
+  z-index: 1;
+
+  .v & {
+    height: 100%;
+    @media (980px <= width) {
+      width: calc(100% - 400px);
+    }
+  }
+}
+
+.fullScreenBlock {
+  height: calc(100% - 120px);
+  position: relative;
+  transition: 250ms;
+}
+
+.buttonsBlock {
+  display: flex;
+  height: 60px;
+}
+
+.button {
+  aspect-ratio: 1 / 1;
+}
+
+.timesBlock {
+  align-items: center;
+  display: grid;
+  gap: 12px;
+  grid-template-columns: auto 1fr;
+  height: 60px;
+  padding: 0 12px;
+}
+
+.timeBlock {
+  font-size: 1.4rem;
+}
+
+.listBlock {
+  inset: 0 0 180px;
+  position: absolute;
+  transition: 250ms;
+
+  .v & {
+    @media (980px <= width) {
+      inset: 0 0 0 calc(100% - 400px);
+    }
+  }
+}
+
+.listHeader {
+  display: flex;
+  font-size: 1.2rem;
+  margin: 12px;
+}
+
+.listTitle {
+  font-size: 1.4rem;
+}
+
+.table {
+  font-size: 1.2rem;
+  width: 100%;
+}
+
+.link {
+  display: block;
+}
+
+.link2 {
+  padding: 0 12px;
+}
+
+.menuItem {
+  font-size: 1.4rem;
+  gap: 6px;
+}
+
+.nav {
+  overflow: hidden;
+}
