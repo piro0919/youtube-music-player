@@ -41,7 +41,7 @@
     "@typescript-eslint/parser": "8.18.1",
     "@uphold/commitlint-config": "1.1.1",
     "commitlint-plugin-tense": "1.0.3",
-    "dotenv-cli": "7.4.4",
+    "dotenv-cli": "8.0.0",
     "eslint": "^8",
     "eslint-config-google": "0.14.0",
     "eslint-config-next": "15.1.2",
