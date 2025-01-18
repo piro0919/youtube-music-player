@@ -4,7 +4,7 @@
     "@dnd-kit/modifiers": "9.0.0",
     "@dnd-kit/sortable": "10.0.0",
     "@dnd-kit/utilities": "3.2.2",
-    "@faker-js/faker": "9.3.0",
+    "@faker-js/faker": "9.4.0",
     "@mpth/react-no-ssr": "1.0.1",
     "@prisma/client": "6.2.1",
     "@stytch/nextjs": "18.0.0",
@@ -12,7 +12,7 @@
     "@szhsin/react-menu": "4.2.4",
     "@tanstack/react-table": "8.20.6",
     "format-duration": "3.0.2",
-    "next": "15.1.4",
+    "next": "15.1.5",
     "nextjs-toploader": "3.7.15",
     "nprogress": "0.2.0",
     "query-string": "9.1.1",
@@ -27,7 +27,7 @@
     "react-tabs": "6.1.0",
     "react-use-measure": "2.1.1",
     "ress": "5.0.2",
-    "stytch": "12.1.0",
+    "stytch": "12.3.0",
     "usehooks-ts": "3.1.0"
   },
   "devDependencies": {
