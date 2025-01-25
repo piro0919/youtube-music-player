@@ -9,10 +9,10 @@
     "@prisma/client": "6.2.1",
     "@stytch/nextjs": "18.0.0",
     "@stytch/vanilla-js": "4.18.2",
-    "@szhsin/react-menu": "4.2.4",
+    "@szhsin/react-menu": "4.3.0",
     "@tanstack/react-table": "8.20.6",
     "format-duration": "3.0.2",
-    "next": "15.1.5",
+    "next": "15.1.6",
     "nextjs-toploader": "3.7.15",
     "nprogress": "0.2.0",
     "query-string": "9.1.1",
@@ -27,7 +27,7 @@
     "react-tabs": "6.1.0",
     "react-use-measure": "2.1.1",
     "ress": "5.0.2",
-    "stytch": "12.3.0",
+    "stytch": "12.3.1",
     "usehooks-ts": "3.1.0"
   },
   "devDependencies": {
