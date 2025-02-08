@@ -8,7 +8,7 @@
     "@mpth/react-no-ssr": "1.0.1",
     "@prisma/client": "6.3.1",
     "@stytch/nextjs": "18.0.0",
-    "@stytch/vanilla-js": "4.18.2",
+    "@stytch/vanilla-js": "5.15.0",
     "@szhsin/react-menu": "4.3.0",
     "@tanstack/react-table": "8.20.6",
     "format-duration": "3.0.2",
