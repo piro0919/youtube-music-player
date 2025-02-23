@@ -40,7 +40,7 @@
     "@typescript-eslint/eslint-plugin": "8.24.1",
     "@typescript-eslint/parser": "8.24.1",
     "@uphold/commitlint-config": "1.1.1",
-    "commitlint-plugin-tense": "1.0.4",
+    "commitlint-plugin-tense": "1.0.5",
     "dotenv-cli": "8.0.0",
     "eslint": "^8",
     "eslint-config-google": "0.14.0",
