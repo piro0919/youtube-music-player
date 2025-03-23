@@ -13,7 +13,7 @@
     "@tanstack/react-table": "8.21.2",
     "format-duration": "3.0.2",
     "next": "15.2.3",
-    "nextjs-toploader": "3.7.15",
+    "nextjs-toploader": "3.8.15",
     "nprogress": "0.2.0",
     "query-string": "9.1.1",
     "react": "^18",
