@@ -62,7 +62,7 @@
     "prettier": "3.5.3",
     "prisma": "6.5.0",
     "sass": "1.86.3",
-    "stylelint": "16.17.0",
+    "stylelint": "16.18.0",
     "stylelint-config-css-modules": "4.4.0",
     "stylelint-config-prettier-scss": "1.0.0",
     "stylelint-config-recommended-scss": "14.1.0",
