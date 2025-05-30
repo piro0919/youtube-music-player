@@ -12,7 +12,7 @@
     "@szhsin/react-menu": "4.4.1",
     "@tanstack/react-table": "8.21.3",
     "format-duration": "3.0.2",
-    "next": "15.3.2",
+    "next": "15.3.3",
     "nextjs-toploader": "3.8.16",
     "nprogress": "0.2.0",
     "query-string": "9.2.0",
