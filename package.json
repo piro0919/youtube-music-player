@@ -6,7 +6,7 @@
     "@dnd-kit/utilities": "3.2.2",
     "@faker-js/faker": "9.9.0",
     "@mpth/react-no-ssr": "1.0.1",
-    "@prisma/client": "6.13.0",
+    "@prisma/client": "6.14.0",
     "@stytch/nextjs": "18.0.0",
     "@stytch/vanilla-js": "4.18.2",
     "@szhsin/react-menu": "4.4.1",
@@ -27,7 +27,7 @@
     "react-tabs": "6.1.0",
     "react-use-measure": "2.1.7",
     "ress": "5.0.2",
-    "stytch": "12.29.0",
+    "stytch": "12.31.0",
     "usehooks-ts": "3.1.1"
   },
   "devDependencies": {
