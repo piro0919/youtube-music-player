@@ -12,7 +12,7 @@
     "@szhsin/react-menu": "4.5.0",
     "@tanstack/react-table": "8.21.3",
     "format-duration": "3.0.2",
-    "next": "15.5.3",
+    "next": "15.5.4",
     "nextjs-toploader": "3.9.17",
     "nprogress": "0.2.0",
     "query-string": "9.3.1",
@@ -27,7 +27,7 @@
     "react-tabs": "6.1.0",
     "react-use-measure": "2.1.7",
     "ress": "5.0.2",
-    "stytch": "12.35.0",
+    "stytch": "12.39.0",
     "usehooks-ts": "3.1.1"
   },
   "devDependencies": {
