@@ -62,7 +62,7 @@
     "prettier": "3.8.1",
     "prisma": "7.4.2",
     "sass": "1.97.3",
-    "stylelint": "16.26.1",
+    "stylelint": "17.4.0",
     "stylelint-config-css-modules": "4.6.0",
     "stylelint-config-prettier-scss": "1.0.0",
     "stylelint-config-recommended-scss": "16.0.2",
@@ -76,7 +76,7 @@
   "name": "youtube-music-player",
   "overrides": {
     "stylelint-css-modules-no-global-scoped-selector": {
-      "stylelint": "16.26.1"
+      "stylelint": "17.4.0"
     }
   },
   "private": true,
